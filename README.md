@@ -1,10 +1,6 @@
 VQA Project for Advanced Computer Vision
 ===================
 
-## Edits and Changes ##
-
-I built on the codebase for VQA as part of a project for Advanced Computer Vision. I implemented the bi-directional LSTM and combined it with ResNet101 features for the visual question answering challenge.
-
 ## VQA v2.0 release ##
 This release consists of
 - Real 
